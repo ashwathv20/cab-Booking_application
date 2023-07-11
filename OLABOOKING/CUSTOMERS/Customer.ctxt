@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=x\ y
+comment1.target=Customer(java.lang.String,\ java.lang.String[])
+numComments=2

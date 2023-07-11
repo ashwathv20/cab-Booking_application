@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Services
+comment1.params=type\ rate
+comment1.target=Services(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ main()
+comment4.params=Arr\ x
+comment4.target=int\ findIndex(java.lang.String[],\ java.lang.String)
+comment5.params=
+comment5.target=void\ displayServices()
+comment6.params=
+comment6.target=void\ initialiseSerives()
+numComments=7
